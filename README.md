@@ -1,6 +1,6 @@
 # Dev-Board-Projects
 
-This repository contains my **FPGA design projects** implemented on the **FPGA board** using Verilog HDL.  
+This repository contains my **FPGA design projects** implemented on the **EDGE Artix-7 FPGA board** using Verilog HDL.  
 Each project includes RTL design and board-specific constraint files for synthesis and hardware testing in **Vivado**.
 
 ---
